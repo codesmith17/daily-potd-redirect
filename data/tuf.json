@@ -1,15 +1,17 @@
 {
   "platform": "tuf",
-  "id": "#364",
-  "title": "Check for Perfect Number",
-  "slug": "check-for-perfect-number",
-  "difficulty": "Basic",
-  "difficultyClass": "easy",
-  "url": "https://takeuforward.org/practice/dsa/check-for-perfect-number",
-  "date": "2026-10-24",
+  "id": "#250",
+  "title": "Count Pairs of Equal Substrings with Minimum Difference",
+  "slug": "count-pairs-of-equal-substrings-with-minimum-difference",
+  "difficulty": "Core",
+  "difficultyClass": "medium",
+  "url": "https://takeuforward.org/practice/dsa/count-pairs-of-equal-substrings-with-minimum-difference",
+  "date": "2026-10-25",
   "tags": [
     "DSA",
+    "String",
+    "Bst",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-10-24 18:15 UTC"
+  "syncedAt": "2026-10-24 20:59 UTC"
 }

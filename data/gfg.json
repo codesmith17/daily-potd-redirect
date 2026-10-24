@@ -1,14 +1,14 @@
 {
   "platform": "gfg",
-  "id": "2215",
-  "title": "Trace Path",
+  "id": "2216",
+  "title": "Sum of Beauty of All Substrings",
   "slug": "1",
   "difficulty": "Easy",
   "difficultyClass": "easy",
-  "url": "https://www.geeksforgeeks.org/problems/trace-path3840/1",
-  "date": "2026-10-24",
+  "url": "https://www.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings-1662962118/1",
+  "date": "2026-10-25",
   "tags": [
-    "Matrix"
+    "Strings"
   ],
-  "syncedAt": "2026-10-24 18:15 UTC"
+  "syncedAt": "2026-10-24 20:59 UTC"
 }
