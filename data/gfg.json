@@ -1,14 +1,15 @@
 {
   "platform": "gfg",
-  "id": "2216",
-  "title": "Sum of Beauty of All Substrings",
+  "id": "2217",
+  "title": "Minimize Max Min Diff with Subarray Removal",
   "slug": "1",
-  "difficulty": "Easy",
-  "difficultyClass": "easy",
-  "url": "https://www.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings-1662962118/1",
-  "date": "2026-10-25",
+  "difficulty": "Medium",
+  "difficultyClass": "medium",
+  "url": "https://www.geeksforgeeks.org/problems/minimize-the-difference/1",
+  "date": "2026-10-26",
   "tags": [
-    "Strings"
+    "Arrays",
+    "Prefix Sum"
   ],
-  "syncedAt": "2026-10-25 18:28 UTC"
+  "syncedAt": "2026-10-25 21:10 UTC"
 }
