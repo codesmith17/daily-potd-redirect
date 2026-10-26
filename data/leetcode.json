@@ -1,12 +1,12 @@
 {
   "platform": "leetcode",
-  "id": "1254",
-  "title": "Number of Closed Islands",
-  "slug": "number-of-closed-islands",
+  "id": "3619",
+  "title": "Count Islands With Total Value Divisible by K",
+  "slug": "count-islands-with-total-value-divisible-by-k",
   "difficulty": "Medium",
   "difficultyClass": "medium",
-  "url": "https://leetcode.com/problems/number-of-closed-islands/",
-  "date": "2026-10-25",
+  "url": "https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/",
+  "date": "2026-10-26",
   "tags": [
     "Array",
     "Depth-First Search",
@@ -14,5 +14,5 @@
     "Union-Find",
     "Matrix"
   ],
-  "syncedAt": "2026-10-25 21:55 UTC"
+  "syncedAt": "2026-10-26 00:29 UTC"
 }
