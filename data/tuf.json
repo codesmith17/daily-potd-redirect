@@ -1,15 +1,16 @@
 {
   "platform": "tuf",
-  "id": "#400",
-  "title": "Valid Anagram",
-  "slug": "valid-anagram",
-  "difficulty": "Basic",
-  "difficultyClass": "easy",
-  "url": "https://takeuforward.org/practice/dsa/valid-anagram",
-  "date": "2026-10-27",
+  "id": "#188",
+  "title": "Clone Graph",
+  "slug": "clone-graph",
+  "difficulty": "Core",
+  "difficultyClass": "medium",
+  "url": "https://takeuforward.org/practice/dsa/clone-graph",
+  "date": "2026-10-28",
   "tags": [
     "DSA",
+    "Graph",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-10-27 13:23 UTC"
+  "syncedAt": "2026-10-27 19:29 UTC"
 }
