@@ -1,16 +1,16 @@
 {
   "platform": "tuf",
-  "id": "#188",
-  "title": "Clone Graph",
-  "slug": "clone-graph",
+  "id": "#148",
+  "title": "Bold Words in String",
+  "slug": "bold-words-in-string",
   "difficulty": "Core",
   "difficultyClass": "medium",
-  "url": "https://takeuforward.org/practice/dsa/clone-graph",
-  "date": "2026-10-28",
+  "url": "https://takeuforward.org/practice/dsa/bold-words-in-string",
+  "date": "2026-10-29",
   "tags": [
     "DSA",
-    "Graph",
+    "String",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-10-28 13:14 UTC"
+  "syncedAt": "2026-10-28 18:56 UTC"
 }

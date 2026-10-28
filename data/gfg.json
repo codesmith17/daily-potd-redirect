@@ -1,14 +1,14 @@
 {
   "platform": "gfg",
-  "id": "2219",
-  "title": "Nth in Concatenated Decimal String",
+  "id": "2220",
+  "title": "Optimal File Merge",
   "slug": "1",
   "difficulty": "Medium",
   "difficultyClass": "medium",
-  "url": "https://www.geeksforgeeks.org/problems/nth-character-in-concatenated-decimal-string0245/1",
-  "date": "2026-10-28",
+  "url": "https://www.geeksforgeeks.org/problems/optimal-file-merge/1",
+  "date": "2026-10-29",
   "tags": [
-    "Mathematics"
+    "Heap"
   ],
-  "syncedAt": "2026-10-28 13:14 UTC"
+  "syncedAt": "2026-10-28 18:56 UTC"
 }
