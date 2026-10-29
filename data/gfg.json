@@ -1,14 +1,17 @@
 {
   "platform": "gfg",
-  "id": "2220",
-  "title": "Optimal File Merge",
+  "id": "2221",
+  "title": "Subsets with MEX in Range",
   "slug": "1",
-  "difficulty": "Medium",
-  "difficultyClass": "medium",
-  "url": "https://www.geeksforgeeks.org/problems/optimal-file-merge/1",
-  "date": "2026-10-29",
+  "difficulty": "Hard",
+  "difficultyClass": "hard",
+  "url": "https://www.geeksforgeeks.org/problems/crazy-subsets--131708/1",
+  "date": "2026-10-30",
   "tags": [
-    "Heap"
+    "Mathematics",
+    "subset",
+    "Modular Arithmetic",
+    "Hash"
   ],
-  "syncedAt": "2026-10-29 16:59 UTC"
+  "syncedAt": "2026-10-29 21:52 UTC"
 }

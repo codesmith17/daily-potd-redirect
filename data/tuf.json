@@ -1,16 +1,15 @@
 {
   "platform": "tuf",
-  "id": "#148",
-  "title": "Bold Words in String",
-  "slug": "bold-words-in-string",
-  "difficulty": "Core",
-  "difficultyClass": "medium",
-  "url": "https://takeuforward.org/practice/dsa/bold-words-in-string",
-  "date": "2026-10-29",
+  "id": "#689",
+  "title": "Maximum Product of Three Numbers",
+  "slug": "maximum-product-of-three-numbers",
+  "difficulty": "Basic",
+  "difficultyClass": "easy",
+  "url": "https://takeuforward.org/practice/dsa/maximum-product-of-three-numbers",
+  "date": "2026-10-30",
   "tags": [
     "DSA",
-    "String",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-10-29 16:59 UTC"
+  "syncedAt": "2026-10-29 21:52 UTC"
 }
