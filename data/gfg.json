@@ -1,17 +1,16 @@
 {
   "platform": "gfg",
-  "id": "2221",
-  "title": "Subsets with MEX in Range",
+  "id": "2222",
+  "title": "Maximum Packages within Time",
   "slug": "1",
-  "difficulty": "Hard",
-  "difficultyClass": "hard",
-  "url": "https://www.geeksforgeeks.org/problems/crazy-subsets--131708/1",
-  "date": "2026-10-30",
+  "difficulty": "Easy",
+  "difficultyClass": "easy",
+  "url": "https://www.geeksforgeeks.org/problems/bird-and-maximum-fruit-gathering0509/1",
+  "date": "2026-10-31",
   "tags": [
-    "Mathematics",
-    "subset",
-    "Modular Arithmetic",
-    "Hash"
+    "Arrays",
+    "sliding-window",
+    "two-pointer-algorithm"
   ],
-  "syncedAt": "2026-10-30 16:01 UTC"
+  "syncedAt": "2026-10-30 20:54 UTC"
 }

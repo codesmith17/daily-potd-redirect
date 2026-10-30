@@ -1,15 +1,16 @@
 {
   "platform": "tuf",
-  "id": "#689",
-  "title": "Maximum Product of Three Numbers",
-  "slug": "maximum-product-of-three-numbers",
-  "difficulty": "Basic",
-  "difficultyClass": "easy",
-  "url": "https://takeuforward.org/practice/dsa/maximum-product-of-three-numbers",
-  "date": "2026-10-30",
+  "id": "#272",
+  "title": "Diameter of N-ary Tree",
+  "slug": "diameter-of-n-ary-tree",
+  "difficulty": "Core",
+  "difficultyClass": "medium",
+  "url": "https://takeuforward.org/practice/dsa/diameter-of-n-ary-tree",
+  "date": "2026-10-31",
   "tags": [
     "DSA",
+    "Tree",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-10-30 16:01 UTC"
+  "syncedAt": "2026-10-30 20:54 UTC"
 }
