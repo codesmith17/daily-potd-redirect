@@ -1,16 +1,15 @@
 {
   "platform": "tuf",
-  "id": "#272",
-  "title": "Diameter of N-ary Tree",
-  "slug": "diameter-of-n-ary-tree",
+  "id": "#266",
+  "title": "Design Log Storage System",
+  "slug": "design-log-storage-system",
   "difficulty": "Core",
   "difficultyClass": "medium",
-  "url": "https://takeuforward.org/practice/dsa/diameter-of-n-ary-tree",
-  "date": "2026-10-31",
+  "url": "https://takeuforward.org/practice/dsa/design-log-storage-system",
+  "date": "2026-11-01",
   "tags": [
     "DSA",
-    "Tree",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-10-31 13:44 UTC"
+  "syncedAt": "2026-10-31 18:39 UTC"
 }

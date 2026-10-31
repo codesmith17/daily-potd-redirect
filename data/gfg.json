@@ -1,16 +1,14 @@
 {
   "platform": "gfg",
-  "id": "2222",
-  "title": "Maximum Packages within Time",
+  "id": "2224",
+  "title": "Maximum Subarray Sum with One Square Allowed",
   "slug": "1",
-  "difficulty": "Easy",
-  "difficultyClass": "easy",
-  "url": "https://www.geeksforgeeks.org/problems/bird-and-maximum-fruit-gathering0509/1",
-  "date": "2026-10-31",
+  "difficulty": "Medium",
+  "difficultyClass": "medium",
+  "url": "https://www.geeksforgeeks.org/problems/maximum-sum-subarray--143510/1",
+  "date": "2026-11-01",
   "tags": [
-    "Arrays",
-    "sliding-window",
-    "two-pointer-algorithm"
+    "Arrays"
   ],
-  "syncedAt": "2026-10-31 13:44 UTC"
+  "syncedAt": "2026-10-31 18:39 UTC"
 }
