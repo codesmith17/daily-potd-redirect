@@ -1,14 +1,15 @@
 {
   "platform": "gfg",
-  "id": "2224",
-  "title": "Maximum Subarray Sum with One Square Allowed",
+  "id": "2225",
+  "title": "Largest Sum Cycle",
   "slug": "1",
-  "difficulty": "Medium",
-  "difficultyClass": "medium",
-  "url": "https://www.geeksforgeeks.org/problems/maximum-sum-subarray--143510/1",
-  "date": "2026-11-01",
+  "difficulty": "Hard",
+  "difficultyClass": "hard",
+  "url": "https://www.geeksforgeeks.org/problems/largest-sum-cycle--170645/1",
+  "date": "2026-11-02",
   "tags": [
-    "Arrays"
+    "Graph",
+    "Backtracking"
   ],
-  "syncedAt": "2026-11-01 16:51 UTC"
+  "syncedAt": "2026-11-01 21:16 UTC"
 }
