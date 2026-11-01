@@ -1,16 +1,15 @@
 {
   "platform": "leetcode",
-  "id": "3665",
-  "title": "Twisted Mirror Path Count",
-  "slug": "twisted-mirror-path-count",
+  "id": "453",
+  "title": "Minimum Moves to Equal Array Elements",
+  "slug": "minimum-moves-to-equal-array-elements",
   "difficulty": "Medium",
   "difficultyClass": "medium",
-  "url": "https://leetcode.com/problems/twisted-mirror-path-count/",
-  "date": "2026-10-31",
+  "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/",
+  "date": "2026-11-01",
   "tags": [
     "Array",
-    "Dynamic Programming",
-    "Matrix"
+    "Math"
   ],
-  "syncedAt": "2026-10-31 22:36 UTC"
+  "syncedAt": "2026-11-01 02:21 UTC"
 }
