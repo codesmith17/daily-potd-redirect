@@ -1,15 +1,15 @@
 {
   "platform": "gfg",
-  "id": "2225",
-  "title": "Largest Sum Cycle",
+  "id": "2226",
+  "title": "Count Tree Paths With Limited Max Edge Weight",
   "slug": "1",
   "difficulty": "Hard",
   "difficultyClass": "hard",
-  "url": "https://www.geeksforgeeks.org/problems/largest-sum-cycle--170645/1",
-  "date": "2026-11-02",
+  "url": "https://www.geeksforgeeks.org/problems/possible-paths--141628/1",
+  "date": "2026-11-03",
   "tags": [
-    "Graph",
-    "Backtracking"
+    "Tree",
+    "union-find"
   ],
-  "syncedAt": "2026-11-02 07:46 UTC"
+  "syncedAt": "2026-11-02 18:33 UTC"
 }

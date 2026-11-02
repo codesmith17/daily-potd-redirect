@@ -1,15 +1,15 @@
 {
   "platform": "tuf",
-  "id": "#38",
-  "title": "Largest Element ",
-  "slug": "largest-element",
-  "difficulty": "Basic",
-  "difficultyClass": "easy",
-  "url": "https://takeuforward.org/practice/dsa/largest-element",
-  "date": "2026-11-02",
+  "id": "#859",
+  "title": "Range Sum Query 2D - Mutable",
+  "slug": "range-sum-query-2d---mutable",
+  "difficulty": "Core",
+  "difficultyClass": "medium",
+  "url": "https://takeuforward.org/practice/dsa/range-sum-query-2d---mutable",
+  "date": "2026-11-03",
   "tags": [
     "DSA",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-02 07:46 UTC"
+  "syncedAt": "2026-11-02 18:33 UTC"
 }
