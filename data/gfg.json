@@ -1,15 +1,15 @@
 {
   "platform": "gfg",
-  "id": "2227",
-  "title": "XOR of All Subarray XORs",
+  "id": "2228",
+  "title": "Minimum Days",
   "slug": "1",
   "difficulty": "Medium",
   "difficultyClass": "medium",
-  "url": "https://www.geeksforgeeks.org/problems/game-of-xor1541/1",
-  "date": "2026-11-04",
+  "url": "https://www.geeksforgeeks.org/problems/minimum-days--170646/1",
+  "date": "2026-11-05",
   "tags": [
-    "Mathematics",
-    "Bit Magic"
+    "Strings",
+    "permutation"
   ],
-  "syncedAt": "2026-11-04 15:34 UTC"
+  "syncedAt": "2026-11-04 21:59 UTC"
 }

@@ -1,15 +1,16 @@
 {
   "platform": "tuf",
-  "id": "#66",
-  "title": "Find row with maximum 1's",
-  "slug": "find-row-with-maximum-1's",
-  "difficulty": "Core",
-  "difficultyClass": "medium",
-  "url": "https://takeuforward.org/practice/dsa/find-row-with-maximum-1's",
-  "date": "2026-11-04",
+  "id": "#163",
+  "title": "Change Case of Each Character in a String",
+  "slug": "change-case-of-each-character-in-a-string",
+  "difficulty": "Basic",
+  "difficultyClass": "easy",
+  "url": "https://takeuforward.org/practice/dsa/change-case-of-each-character-in-a-string",
+  "date": "2026-11-05",
   "tags": [
     "DSA",
+    "String",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-04 15:34 UTC"
+  "syncedAt": "2026-11-04 21:59 UTC"
 }
