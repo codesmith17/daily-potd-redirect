@@ -1,15 +1,19 @@
 {
   "platform": "leetcode",
-  "id": "3736",
-  "title": "Minimum Moves to Equal Array Elements III",
-  "slug": "minimum-moves-to-equal-array-elements-iii",
-  "difficulty": "Easy",
-  "difficultyClass": "easy",
-  "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
-  "date": "2026-11-03",
+  "id": "3505",
+  "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+  "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+  "difficulty": "Hard",
+  "difficultyClass": "hard",
+  "url": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
+  "date": "2026-11-04",
   "tags": [
     "Array",
-    "Math"
+    "Hash Table",
+    "Math",
+    "Dynamic Programming",
+    "Sliding Window",
+    "Heap (Priority Queue)"
   ],
-  "syncedAt": "2026-11-03 23:54 UTC"
+  "syncedAt": "2026-11-04 05:24 UTC"
 }
