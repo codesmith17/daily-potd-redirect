@@ -1,19 +1,17 @@
 {
   "platform": "leetcode",
-  "id": "3505",
-  "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
-  "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
-  "difficulty": "Hard",
-  "difficultyClass": "hard",
-  "url": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
-  "date": "2026-11-04",
+  "id": "1385",
+  "title": "Find the Distance Value Between Two Arrays",
+  "slug": "find-the-distance-value-between-two-arrays",
+  "difficulty": "Easy",
+  "difficultyClass": "easy",
+  "url": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+  "date": "2026-11-05",
   "tags": [
     "Array",
-    "Hash Table",
-    "Math",
-    "Dynamic Programming",
-    "Sliding Window",
-    "Heap (Priority Queue)"
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
   ],
-  "syncedAt": "2026-11-04 23:58 UTC"
+  "syncedAt": "2026-11-05 00:14 UTC"
 }
