@@ -1,16 +1,16 @@
 {
   "platform": "tuf",
-  "id": "#163",
-  "title": "Change Case of Each Character in a String",
-  "slug": "change-case-of-each-character-in-a-string",
-  "difficulty": "Basic",
-  "difficultyClass": "easy",
-  "url": "https://takeuforward.org/practice/dsa/change-case-of-each-character-in-a-string",
-  "date": "2026-11-05",
+  "id": "#891",
+  "title": "Remove Duplicates from Unsorted Array",
+  "slug": "remove-duplicates-from-unsorted-array",
+  "difficulty": "Core",
+  "difficultyClass": "medium",
+  "url": "https://takeuforward.org/practice/dsa/remove-duplicates-from-unsorted-array",
+  "date": "2026-11-06",
   "tags": [
     "DSA",
-    "String",
+    "Array",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-05 11:13 UTC"
+  "syncedAt": "2026-11-05 18:50 UTC"
 }
