@@ -1,17 +1,17 @@
 {
   "platform": "leetcode",
-  "id": "1385",
-  "title": "Find the Distance Value Between Two Arrays",
-  "slug": "find-the-distance-value-between-two-arrays",
-  "difficulty": "Easy",
-  "difficultyClass": "easy",
-  "url": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
-  "date": "2026-11-05",
+  "id": "2747",
+  "title": "Count Zero Request Servers",
+  "slug": "count-zero-request-servers",
+  "difficulty": "Medium",
+  "difficultyClass": "medium",
+  "url": "https://leetcode.com/problems/count-zero-request-servers/",
+  "date": "2026-11-06",
   "tags": [
     "Array",
-    "Two Pointers",
-    "Binary Search",
+    "Hash Table",
+    "Sliding Window",
     "Sorting"
   ],
-  "syncedAt": "2026-11-05 23:59 UTC"
+  "syncedAt": "2026-11-06 00:25 UTC"
 }
