@@ -3,8 +3,8 @@
   "id": "#891",
   "title": "Remove Duplicates from Unsorted Array",
   "slug": "remove-duplicates-from-unsorted-array",
-  "difficulty": "Core",
-  "difficultyClass": "medium",
+  "difficulty": "Basic",
+  "difficultyClass": "easy",
   "url": "https://takeuforward.org/practice/dsa/remove-duplicates-from-unsorted-array",
   "date": "2026-11-06",
   "tags": [
@@ -12,5 +12,5 @@
     "Array",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-06 07:08 UTC"
+  "syncedAt": "2026-11-06 07:25 UTC"
 }
