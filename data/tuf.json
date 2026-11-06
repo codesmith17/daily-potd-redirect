@@ -1,16 +1,15 @@
 {
   "platform": "tuf",
-  "id": "#891",
-  "title": "Remove Duplicates from Unsorted Array",
-  "slug": "remove-duplicates-from-unsorted-array",
-  "difficulty": "Basic",
-  "difficultyClass": "easy",
-  "url": "https://takeuforward.org/practice/dsa/remove-duplicates-from-unsorted-array",
-  "date": "2026-11-06",
+  "id": "#492",
+  "title": "Generalized Abbreviation",
+  "slug": "generalized-abbreviation",
+  "difficulty": "Core",
+  "difficultyClass": "medium",
+  "url": "https://takeuforward.org/practice/dsa/generalized-abbreviation",
+  "date": "2026-11-07",
   "tags": [
     "DSA",
-    "Array",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-06 16:00 UTC"
+  "syncedAt": "2026-11-06 21:38 UTC"
 }

@@ -1,15 +1,14 @@
 {
   "platform": "gfg",
-  "id": "2229",
-  "title": "Balanced Binary Tree Counter",
+  "id": "2230",
+  "title": "Generate Usernames",
   "slug": "1",
   "difficulty": "Easy",
   "difficultyClass": "easy",
-  "url": "https://www.geeksforgeeks.org/problems/bbt-counter4914/1",
-  "date": "2026-11-06",
+  "url": "https://www.geeksforgeeks.org/problems/new-registration-system--150419/1",
+  "date": "2026-11-07",
   "tags": [
-    "Mathematics",
-    "Tree"
+    "Strings"
   ],
-  "syncedAt": "2026-11-06 16:00 UTC"
+  "syncedAt": "2026-11-06 21:38 UTC"
 }
