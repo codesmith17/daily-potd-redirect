@@ -1,17 +1,15 @@
 {
   "platform": "leetcode",
-  "id": "2747",
-  "title": "Count Zero Request Servers",
-  "slug": "count-zero-request-servers",
+  "id": "1882",
+  "title": "Process Tasks Using Servers",
+  "slug": "process-tasks-using-servers",
   "difficulty": "Medium",
   "difficultyClass": "medium",
-  "url": "https://leetcode.com/problems/count-zero-request-servers/",
-  "date": "2026-11-06",
+  "url": "https://leetcode.com/problems/process-tasks-using-servers/",
+  "date": "2026-11-07",
   "tags": [
     "Array",
-    "Hash Table",
-    "Sliding Window",
-    "Sorting"
+    "Heap (Priority Queue)"
   ],
-  "syncedAt": "2026-11-06 23:41 UTC"
+  "syncedAt": "2026-11-07 02:01 UTC"
 }
