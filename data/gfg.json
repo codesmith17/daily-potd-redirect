@@ -1,14 +1,15 @@
 {
   "platform": "gfg",
-  "id": "2230",
-  "title": "Generate Usernames",
+  "id": "2231",
+  "title": "Minimum Time with 2 Scanners",
   "slug": "1",
   "difficulty": "Easy",
   "difficultyClass": "easy",
-  "url": "https://www.geeksforgeeks.org/problems/new-registration-system--150419/1",
-  "date": "2026-11-07",
+  "url": "https://www.geeksforgeeks.org/problems/find-the-minimum-time0253/1",
+  "date": "2026-11-08",
   "tags": [
-    "Strings"
+    "Mathematics",
+    "Binary Search"
   ],
-  "syncedAt": "2026-11-07 15:46 UTC"
+  "syncedAt": "2026-11-07 20:19 UTC"
 }
