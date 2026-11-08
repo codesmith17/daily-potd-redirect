@@ -1,15 +1,17 @@
 {
   "platform": "tuf",
-  "id": "#171",
-  "title": "Check if a Number is Odd or Not",
-  "slug": "check-if-a-number-is-odd-or-not",
-  "difficulty": "Basic",
-  "difficultyClass": "easy",
-  "url": "https://takeuforward.org/practice/dsa/check-if-a-number-is-odd-or-not",
-  "date": "2026-11-08",
+  "id": "#61",
+  "title": "Binary Tree Longest Consecutive Sequence II",
+  "slug": "binary-tree-longest-consecutive-sequence-ii",
+  "difficulty": "Core",
+  "difficultyClass": "medium",
+  "url": "https://takeuforward.org/practice/dsa/binary-tree-longest-consecutive-sequence-ii",
+  "date": "2026-11-09",
   "tags": [
     "DSA",
+    "Tree",
+    "Binary Tree",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-08 13:41 UTC"
+  "syncedAt": "2026-11-08 18:53 UTC"
 }

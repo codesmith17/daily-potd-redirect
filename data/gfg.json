@@ -1,15 +1,14 @@
 {
   "platform": "gfg",
-  "id": "2231",
-  "title": "Minimum Time with 2 Scanners",
+  "id": "2232",
+  "title": "Count Group Occurrences",
   "slug": "1",
   "difficulty": "Easy",
   "difficultyClass": "easy",
-  "url": "https://www.geeksforgeeks.org/problems/find-the-minimum-time0253/1",
-  "date": "2026-11-08",
+  "url": "https://www.geeksforgeeks.org/problems/count-the-characters1821/1",
+  "date": "2026-11-09",
   "tags": [
-    "Mathematics",
-    "Binary Search"
+    "Strings"
   ],
-  "syncedAt": "2026-11-08 13:41 UTC"
+  "syncedAt": "2026-11-08 18:53 UTC"
 }
