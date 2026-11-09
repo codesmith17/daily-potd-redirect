@@ -1,14 +1,15 @@
 {
   "platform": "gfg",
-  "id": "2232",
-  "title": "Count Group Occurrences",
+  "id": "2233",
+  "title": "At Least K Occurrences",
   "slug": "1",
   "difficulty": "Easy",
   "difficultyClass": "easy",
-  "url": "https://www.geeksforgeeks.org/problems/count-the-characters1821/1",
-  "date": "2026-11-09",
+  "url": "https://www.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/1",
+  "date": "2026-11-10",
   "tags": [
-    "Strings"
+    "Arrays",
+    "Hash"
   ],
-  "syncedAt": "2026-11-09 11:51 UTC"
+  "syncedAt": "2026-11-09 22:32 UTC"
 }

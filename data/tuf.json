@@ -1,17 +1,16 @@
 {
   "platform": "tuf",
-  "id": "#61",
-  "title": "Binary Tree Longest Consecutive Sequence II",
-  "slug": "binary-tree-longest-consecutive-sequence-ii",
+  "id": "#96",
+  "title": "BST iterator",
+  "slug": "bst-iterator",
   "difficulty": "Core",
   "difficultyClass": "medium",
-  "url": "https://takeuforward.org/practice/dsa/binary-tree-longest-consecutive-sequence-ii",
-  "date": "2026-11-09",
+  "url": "https://takeuforward.org/practice/dsa/bst-iterator",
+  "date": "2026-11-10",
   "tags": [
     "DSA",
-    "Tree",
-    "Binary Tree",
+    "Bst",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-09 11:51 UTC"
+  "syncedAt": "2026-11-09 22:32 UTC"
 }
