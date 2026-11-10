@@ -1,16 +1,15 @@
 {
   "platform": "tuf",
-  "id": "#96",
-  "title": "BST iterator",
-  "slug": "bst-iterator",
-  "difficulty": "Core",
-  "difficultyClass": "medium",
-  "url": "https://takeuforward.org/practice/dsa/bst-iterator",
-  "date": "2026-11-10",
+  "id": "#369",
+  "title": "Count of Prime Numbers till N",
+  "slug": "count-of-prime-numbers-till-n",
+  "difficulty": "Basic",
+  "difficultyClass": "easy",
+  "url": "https://takeuforward.org/practice/dsa/count-of-prime-numbers-till-n",
+  "date": "2026-11-11",
   "tags": [
     "DSA",
-    "Bst",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-10 13:37 UTC"
+  "syncedAt": "2026-11-10 20:54 UTC"
 }
