@@ -1,15 +1,17 @@
 {
   "platform": "tuf",
-  "id": "#369",
-  "title": "Count of Prime Numbers till N",
-  "slug": "count-of-prime-numbers-till-n",
-  "difficulty": "Basic",
-  "difficultyClass": "easy",
-  "url": "https://takeuforward.org/practice/dsa/count-of-prime-numbers-till-n",
-  "date": "2026-11-11",
+  "id": "#387",
+  "title": "Implement Queue using Arrays",
+  "slug": "implement-queue-using-arrays",
+  "difficulty": "Core",
+  "difficultyClass": "medium",
+  "url": "https://takeuforward.org/practice/dsa/implement-queue-using-arrays",
+  "date": "2026-11-12",
   "tags": [
     "DSA",
+    "Array",
+    "Queue",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-11 16:21 UTC"
+  "syncedAt": "2026-11-11 22:53 UTC"
 }

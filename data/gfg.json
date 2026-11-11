@@ -1,15 +1,15 @@
 {
   "platform": "gfg",
-  "id": "2234",
-  "title": "Any Duplicate Within K Distance",
+  "id": "2235",
+  "title": "Closest in BST",
   "slug": "1",
-  "difficulty": "Easy",
-  "difficultyClass": "easy",
-  "url": "https://www.geeksforgeeks.org/problems/kth-distance3757/1",
-  "date": "2026-11-11",
+  "difficulty": "Medium",
+  "difficultyClass": "medium",
+  "url": "https://www.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1",
+  "date": "2026-11-12",
   "tags": [
-    "Arrays",
-    "Hash"
+    "Binary Search Tree",
+    "Tree"
   ],
-  "syncedAt": "2026-11-11 16:21 UTC"
+  "syncedAt": "2026-11-11 22:53 UTC"
 }
