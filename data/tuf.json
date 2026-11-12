@@ -1,17 +1,16 @@
 {
   "platform": "tuf",
-  "id": "#387",
-  "title": "Implement Queue using Arrays",
-  "slug": "implement-queue-using-arrays",
+  "id": "#572",
+  "title": "Convert Min Heap to Max Heap",
+  "slug": "convert-min-heap-to-max-heap",
   "difficulty": "Core",
   "difficultyClass": "medium",
-  "url": "https://takeuforward.org/practice/dsa/implement-queue-using-arrays",
-  "date": "2026-11-12",
+  "url": "https://takeuforward.org/practice/dsa/convert-min-heap-to-max-heap",
+  "date": "2026-11-13",
   "tags": [
     "DSA",
-    "Array",
-    "Queue",
+    "Heap",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-12 12:58 UTC"
+  "syncedAt": "2026-11-12 20:57 UTC"
 }

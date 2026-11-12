@@ -1,15 +1,14 @@
 {
   "platform": "gfg",
-  "id": "2235",
-  "title": "Closest in BST",
+  "id": "2236",
+  "title": "Common Nodes in Two BSTs",
   "slug": "1",
   "difficulty": "Medium",
   "difficultyClass": "medium",
-  "url": "https://www.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1",
-  "date": "2026-11-12",
+  "url": "https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1",
+  "date": "2026-11-13",
   "tags": [
-    "Binary Search Tree",
-    "Tree"
+    "Binary Search Tree"
   ],
-  "syncedAt": "2026-11-12 12:58 UTC"
+  "syncedAt": "2026-11-12 20:57 UTC"
 }
