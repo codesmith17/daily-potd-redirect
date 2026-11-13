@@ -1,14 +1,15 @@
 {
   "platform": "gfg",
-  "id": "2236",
-  "title": "Common Nodes in Two BSTs",
+  "id": "2237",
+  "title": "Max Equal Sum in 3 Stacks",
   "slug": "1",
   "difficulty": "Medium",
   "difficultyClass": "medium",
-  "url": "https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1",
-  "date": "2026-11-13",
+  "url": "https://www.geeksforgeeks.org/problems/find-maximum-equal-sum-of-three-stacks/1",
+  "date": "2026-11-14",
   "tags": [
-    "Binary Search Tree"
+    "Greedy",
+    "Stack"
   ],
-  "syncedAt": "2026-11-13 17:53 UTC"
+  "syncedAt": "2026-11-13 23:42 UTC"
 }
