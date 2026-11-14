@@ -1,20 +1,16 @@
 {
   "platform": "leetcode",
-  "id": "3420",
-  "title": "Count Non-Decreasing Subarrays After K Operations",
-  "slug": "count-non-decreasing-subarrays-after-k-operations",
-  "difficulty": "Hard",
-  "difficultyClass": "hard",
-  "url": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/",
-  "date": "2026-11-13",
+  "id": "3364",
+  "title": "Minimum Positive Sum Subarray ",
+  "slug": "minimum-positive-sum-subarray",
+  "difficulty": "Easy",
+  "difficultyClass": "easy",
+  "url": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+  "date": "2026-11-14",
   "tags": [
     "Array",
-    "Stack",
-    "Segment Tree",
-    "Queue",
     "Sliding Window",
-    "Monotonic Stack",
-    "Monotonic Queue"
+    "Prefix Sum"
   ],
-  "syncedAt": "2026-11-13 23:57 UTC"
+  "syncedAt": "2026-11-14 00:15 UTC"
 }
