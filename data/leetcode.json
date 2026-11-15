@@ -1,16 +1,17 @@
 {
   "platform": "leetcode",
-  "id": "3364",
-  "title": "Minimum Positive Sum Subarray ",
-  "slug": "minimum-positive-sum-subarray",
-  "difficulty": "Easy",
-  "difficultyClass": "easy",
-  "url": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
-  "date": "2026-11-14",
+  "id": "1524",
+  "title": "Number of Sub-arrays With Odd Sum",
+  "slug": "number-of-sub-arrays-with-odd-sum",
+  "difficulty": "Medium",
+  "difficultyClass": "medium",
+  "url": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/",
+  "date": "2026-11-15",
   "tags": [
     "Array",
-    "Sliding Window",
+    "Math",
+    "Dynamic Programming",
     "Prefix Sum"
   ],
-  "syncedAt": "2026-11-14 23:08 UTC"
+  "syncedAt": "2026-11-15 02:50 UTC"
 }
