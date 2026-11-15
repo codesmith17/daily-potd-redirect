@@ -1,14 +1,15 @@
 {
   "platform": "gfg",
-  "id": "2240",
-  "title": "Sum of All Digit Subsequences",
+  "id": "2239",
+  "title": "K-th Missing in Natural Numbers",
   "slug": "1",
-  "difficulty": "Easy",
-  "difficultyClass": "easy",
-  "url": "https://www.geeksforgeeks.org/problems/sum-of-all-sub-sequences-of-a-number3437/1",
-  "date": "2026-11-15",
+  "difficulty": "Medium",
+  "difficultyClass": "medium",
+  "url": "https://www.geeksforgeeks.org/problems/k-th-missing-element-in-natural-numbers/1",
+  "date": "2026-11-16",
   "tags": [
-    "Strings"
+    "Arrays",
+    "Sorting"
   ],
-  "syncedAt": "2026-11-15 17:52 UTC"
+  "syncedAt": "2026-11-15 22:59 UTC"
 }

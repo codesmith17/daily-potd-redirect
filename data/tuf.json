@@ -1,15 +1,16 @@
 {
   "platform": "tuf",
-  "id": "#37",
-  "title": "Two Sum",
-  "slug": "two-sum",
+  "id": "#47",
+  "title": "Remove duplicates from sorted array",
+  "slug": "remove-duplicates-from-sorted-array",
   "difficulty": "Basic",
   "difficultyClass": "easy",
-  "url": "https://takeuforward.org/practice/dsa/two-sum",
-  "date": "2026-11-15",
+  "url": "https://takeuforward.org/practice/dsa/remove-duplicates-from-sorted-array",
+  "date": "2026-11-16",
   "tags": [
     "DSA",
+    "Array",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-15 17:52 UTC"
+  "syncedAt": "2026-11-15 22:59 UTC"
 }
