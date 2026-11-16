@@ -1,16 +1,16 @@
 {
   "platform": "tuf",
-  "id": "#47",
-  "title": "Remove duplicates from sorted array",
-  "slug": "remove-duplicates-from-sorted-array",
-  "difficulty": "Basic",
-  "difficultyClass": "easy",
-  "url": "https://takeuforward.org/practice/dsa/remove-duplicates-from-sorted-array",
-  "date": "2026-11-16",
+  "id": "#563",
+  "title": "Longest Consecutive Sequence in an Array",
+  "slug": "longest-consecutive-sequence-in-an-array",
+  "difficulty": "Core",
+  "difficultyClass": "medium",
+  "url": "https://takeuforward.org/practice/dsa/longest-consecutive-sequence-in-an-array",
+  "date": "2026-11-17",
   "tags": [
     "DSA",
     "Array",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-16 11:46 UTC"
+  "syncedAt": "2026-11-16 22:20 UTC"
 }

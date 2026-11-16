@@ -1,15 +1,14 @@
 {
   "platform": "gfg",
-  "id": "2239",
-  "title": "K-th Missing in Natural Numbers",
+  "id": "2241",
+  "title": "Repeated Pattern Check",
   "slug": "1",
-  "difficulty": "Medium",
-  "difficultyClass": "medium",
-  "url": "https://www.geeksforgeeks.org/problems/k-th-missing-element-in-natural-numbers/1",
-  "date": "2026-11-16",
+  "difficulty": "Easy",
+  "difficultyClass": "easy",
+  "url": "https://www.geeksforgeeks.org/problems/the-pattern-matcher/1",
+  "date": "2026-11-17",
   "tags": [
-    "Arrays",
-    "Sorting"
+    "Strings"
   ],
-  "syncedAt": "2026-11-16 11:46 UTC"
+  "syncedAt": "2026-11-16 22:20 UTC"
 }
