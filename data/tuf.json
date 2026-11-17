@@ -1,16 +1,16 @@
 {
   "platform": "tuf",
-  "id": "#563",
-  "title": "Longest Consecutive Sequence in an Array",
-  "slug": "longest-consecutive-sequence-in-an-array",
-  "difficulty": "Core",
-  "difficultyClass": "medium",
-  "url": "https://takeuforward.org/practice/dsa/longest-consecutive-sequence-in-an-array",
-  "date": "2026-11-17",
+  "id": "#562",
+  "title": "Count subarrays with given xor K",
+  "slug": "count-subarrays-with-given-xor-k",
+  "difficulty": "Pro",
+  "difficultyClass": "hard",
+  "url": "https://takeuforward.org/practice/dsa/count-subarrays-with-given-xor-k",
+  "date": "2026-11-18",
   "tags": [
     "DSA",
     "Array",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-17 14:41 UTC"
+  "syncedAt": "2026-11-17 23:00 UTC"
 }

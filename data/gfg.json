@@ -1,14 +1,14 @@
 {
   "platform": "gfg",
-  "id": "2241",
-  "title": "Repeated Pattern Check",
+  "id": "2242",
+  "title": "XOR of Number Range",
   "slug": "1",
   "difficulty": "Easy",
   "difficultyClass": "easy",
-  "url": "https://www.geeksforgeeks.org/problems/the-pattern-matcher/1",
-  "date": "2026-11-17",
+  "url": "https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1",
+  "date": "2026-11-18",
   "tags": [
-    "Strings"
+    "Bit Magic"
   ],
-  "syncedAt": "2026-11-17 14:41 UTC"
+  "syncedAt": "2026-11-17 23:00 UTC"
 }
