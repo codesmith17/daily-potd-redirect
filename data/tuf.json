@@ -1,15 +1,15 @@
 {
   "platform": "tuf",
-  "id": "#27",
-  "title": "3 Sum",
-  "slug": "3-sum",
-  "difficulty": "Core",
-  "difficultyClass": "medium",
-  "url": "https://takeuforward.org/practice/dsa/3-sum",
-  "date": "2026-11-19",
+  "id": "#965",
+  "title": "Trapping Rainwater",
+  "slug": "trapping-rainwater",
+  "difficulty": "Pro",
+  "difficultyClass": "hard",
+  "url": "https://takeuforward.org/practice/dsa/trapping-rainwater",
+  "date": "2026-11-20",
   "tags": [
     "DSA",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-19 13:33 UTC"
+  "syncedAt": "2026-11-19 22:18 UTC"
 }

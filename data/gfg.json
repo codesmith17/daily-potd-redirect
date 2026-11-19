@@ -1,16 +1,15 @@
 {
   "platform": "gfg",
-  "id": "2243",
-  "title": "Sort in Specific Order",
+  "id": "2244",
+  "title": "Min Flips for Alternate",
   "slug": "1",
-  "difficulty": "Medium",
-  "difficultyClass": "medium",
-  "url": "https://www.geeksforgeeks.org/problems/sort-in-specific-order2422/1",
-  "date": "2026-11-19",
+  "difficulty": "Easy",
+  "difficultyClass": "easy",
+  "url": "https://www.geeksforgeeks.org/problems/min-number-of-flips3210/1",
+  "date": "2026-11-20",
   "tags": [
-    "Arrays",
-    "Sorting",
-    "Numbers"
+    "Strings",
+    "Binary Representation"
   ],
-  "syncedAt": "2026-11-19 13:33 UTC"
+  "syncedAt": "2026-11-19 22:18 UTC"
 }
