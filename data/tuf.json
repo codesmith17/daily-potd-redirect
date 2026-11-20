@@ -1,15 +1,16 @@
 {
   "platform": "tuf",
-  "id": "#965",
-  "title": "Trapping Rainwater",
-  "slug": "trapping-rainwater",
-  "difficulty": "Pro",
-  "difficultyClass": "hard",
-  "url": "https://takeuforward.org/practice/dsa/trapping-rainwater",
-  "date": "2026-11-20",
+  "id": "#564",
+  "title": "Longest subarray with sum K",
+  "slug": "longest-subarray-with-sum-k",
+  "difficulty": "Core",
+  "difficultyClass": "medium",
+  "url": "https://takeuforward.org/practice/dsa/longest-subarray-with-sum-k",
+  "date": "2026-11-21",
   "tags": [
     "DSA",
+    "Array",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-20 13:14 UTC"
+  "syncedAt": "2026-11-20 21:19 UTC"
 }

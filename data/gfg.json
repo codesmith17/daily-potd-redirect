@@ -1,15 +1,15 @@
 {
   "platform": "gfg",
-  "id": "2244",
-  "title": "Min Flips for Alternate",
+  "id": "2245",
+  "title": "Smallest Subarray Sum Greater Than x",
   "slug": "1",
   "difficulty": "Easy",
   "difficultyClass": "easy",
-  "url": "https://www.geeksforgeeks.org/problems/min-number-of-flips3210/1",
-  "date": "2026-11-20",
+  "url": "https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1",
+  "date": "2026-11-21",
   "tags": [
-    "Strings",
-    "Binary Representation"
+    "Arrays",
+    "sliding-window"
   ],
-  "syncedAt": "2026-11-20 13:14 UTC"
+  "syncedAt": "2026-11-20 21:19 UTC"
 }
