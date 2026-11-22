@@ -1,15 +1,15 @@
 {
   "platform": "tuf",
-  "id": "#927",
-  "title": "Longest Repeating Character Replacement",
-  "slug": "longest-repeating-character-replacement",
-  "difficulty": "Pro",
-  "difficultyClass": "hard",
-  "url": "https://takeuforward.org/practice/dsa/longest-repeating-character-replacement",
-  "date": "2026-11-22",
+  "id": "#85",
+  "title": "First and last occurrence",
+  "slug": "first-and-last-occurrence",
+  "difficulty": "Core",
+  "difficultyClass": "medium",
+  "url": "https://takeuforward.org/practice/dsa/first-and-last-occurrence",
+  "date": "2026-11-23",
   "tags": [
     "DSA",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-22 16:27 UTC"
+  "syncedAt": "2026-11-22 22:35 UTC"
 }

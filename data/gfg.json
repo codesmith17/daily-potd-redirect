@@ -1,16 +1,16 @@
 {
   "platform": "gfg",
-  "id": "2246",
-  "title": "Longest Subarray Sum Divisible by K",
+  "id": "2247",
+  "title": "Character at Position in Infinite String",
   "slug": "1",
   "difficulty": "Medium",
   "difficultyClass": "medium",
-  "url": "https://www.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1",
-  "date": "2026-11-22",
+  "url": "https://www.geeksforgeeks.org/problems/the-infinite-string1049/1",
+  "date": "2026-11-23",
   "tags": [
-    "Prefix Sum",
-    "Arrays",
-    "Hash"
+    "Mathematics",
+    "Strings",
+    "Recursion"
   ],
-  "syncedAt": "2026-11-22 16:27 UTC"
+  "syncedAt": "2026-11-22 22:35 UTC"
 }
