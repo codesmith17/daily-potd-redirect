@@ -1,15 +1,16 @@
 {
   "platform": "tuf",
-  "id": "#85",
-  "title": "First and last occurrence",
-  "slug": "first-and-last-occurrence",
+  "id": "#87",
+  "title": "Search in rotated sorted array-I",
+  "slug": "search-in-rotated-sorted-array-i",
   "difficulty": "Core",
   "difficultyClass": "medium",
-  "url": "https://takeuforward.org/practice/dsa/first-and-last-occurrence",
-  "date": "2026-11-23",
+  "url": "https://takeuforward.org/practice/dsa/search-in-rotated-sorted-array-i",
+  "date": "2026-11-24",
   "tags": [
     "DSA",
+    "Array",
     "TUF+ POTD"
   ],
-  "syncedAt": "2026-11-23 14:58 UTC"
+  "syncedAt": "2026-11-24 02:22 UTC"
 }

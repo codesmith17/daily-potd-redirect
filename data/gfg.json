@@ -1,16 +1,16 @@
 {
   "platform": "gfg",
-  "id": "2247",
-  "title": "Character at Position in Infinite String",
+  "id": "2248",
+  "title": "Two Pairs with Same Sum",
   "slug": "1",
   "difficulty": "Medium",
   "difficultyClass": "medium",
-  "url": "https://www.geeksforgeeks.org/problems/the-infinite-string1049/1",
-  "date": "2026-11-23",
+  "url": "https://www.geeksforgeeks.org/problems/satisfy-the-equation5847/1",
+  "date": "2026-11-24",
   "tags": [
-    "Mathematics",
-    "Strings",
-    "Recursion"
+    "Hash",
+    "Sorting",
+    "Map"
   ],
-  "syncedAt": "2026-11-23 14:58 UTC"
+  "syncedAt": "2026-11-24 02:22 UTC"
 }
