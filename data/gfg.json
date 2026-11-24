@@ -1,16 +1,19 @@
 {
   "platform": "gfg",
-  "id": "2248",
-  "title": "Two Pairs with Same Sum",
+  "id": "2249",
+  "title": "Geek's Destination with Special Jump",
   "slug": "1",
-  "difficulty": "Medium",
-  "difficultyClass": "medium",
-  "url": "https://www.geeksforgeeks.org/problems/satisfy-the-equation5847/1",
-  "date": "2026-11-24",
+  "difficulty": "Hard",
+  "difficultyClass": "hard",
+  "url": "https://www.geeksforgeeks.org/problems/geek-and-her-destination--145724/1",
+  "date": "2026-11-25",
   "tags": [
-    "Hash",
-    "Sorting",
-    "Map"
+    "Prefix Sum",
+    "Number Theory",
+    "Greedy",
+    "Mathematics",
+    "Modular Arithmetic",
+    "Arrays"
   ],
-  "syncedAt": "2026-11-24 12:46 UTC"
+  "syncedAt": "2026-11-24 23:07 UTC"
 }
