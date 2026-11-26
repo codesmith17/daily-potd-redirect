@@ -1,19 +1,15 @@
 {
   "platform": "gfg",
-  "id": "2249",
-  "title": "Geek's Destination with Special Jump",
+  "id": "2250",
+  "title": "Range Vowel Count Queries",
   "slug": "1",
-  "difficulty": "Hard",
-  "difficultyClass": "hard",
-  "url": "https://www.geeksforgeeks.org/problems/geek-and-her-destination--145724/1",
-  "date": "2026-11-25",
+  "difficulty": "Medium",
+  "difficultyClass": "medium",
+  "url": "https://www.geeksforgeeks.org/problems/range-vowel-count-queries-static/1",
+  "date": "2026-11-26",
   "tags": [
     "Prefix Sum",
-    "Number Theory",
-    "Greedy",
-    "Mathematics",
-    "Modular Arithmetic",
-    "Arrays"
+    "Strings"
   ],
-  "syncedAt": "2026-11-25 17:26 UTC"
+  "syncedAt": "2026-11-26 01:51 UTC"
 }
