@@ -1,15 +1,14 @@
 {
   "platform": "gfg",
-  "id": "2250",
-  "title": "Range Vowel Count Queries",
+  "id": "2251",
+  "title": "Count Edges in Graph",
   "slug": "1",
-  "difficulty": "Medium",
-  "difficultyClass": "medium",
-  "url": "https://www.geeksforgeeks.org/problems/range-vowel-count-queries-static/1",
-  "date": "2026-11-26",
+  "difficulty": "Easy",
+  "difficultyClass": "easy",
+  "url": "https://www.geeksforgeeks.org/problems/count-number-of-edges-in-an-undirected-graph/1",
+  "date": "2026-11-27",
   "tags": [
-    "Prefix Sum",
-    "Strings"
+    "Graph"
   ],
-  "syncedAt": "2026-11-26 11:07 UTC"
+  "syncedAt": "2026-11-26 20:17 UTC"
 }
