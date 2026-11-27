@@ -1,14 +1,16 @@
 {
   "platform": "gfg",
-  "id": "2251",
-  "title": "Count Edges in Graph",
+  "id": "2252",
+  "title": "Path Exists Between Two Vertices",
   "slug": "1",
   "difficulty": "Easy",
   "difficultyClass": "easy",
-  "url": "https://www.geeksforgeeks.org/problems/count-number-of-edges-in-an-undirected-graph/1",
-  "date": "2026-11-27",
+  "url": "https://www.geeksforgeeks.org/problems/path-exists/1",
+  "date": "2026-11-28",
   "tags": [
-    "Graph"
+    "BFS",
+    "Graph",
+    "DFS"
   ],
-  "syncedAt": "2026-11-27 12:48 UTC"
+  "syncedAt": "2026-11-27 22:08 UTC"
 }
